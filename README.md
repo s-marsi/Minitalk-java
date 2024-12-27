@@ -30,14 +30,18 @@ The goal of this project is to implement a simple client-server communication sy
     git clone https://github.com/s-marsi/Minitalk-java.git minitalk
     cd minitalk
     ```
-3. Usage :
-    <ul>
-      <li>Open 2 terminal: </li>
-        In the first terminal, run: 
-        - <code>java Server.java</code>
-        In the second terminal, run:
-        - <code>java Client.java</code>
-    </ul>
+### Usage :
+   1. Open two terminal windows:
+   
+   - In the first terminal, run:
+     ```
+     java Server.java
+     ```
+
+   - In the second terminal, run:
+     ```
+     java Client.java
+     ```
     After starting both the server and client, you can send a message by typing it into the client terminal. The client will send the message to the server, and the server will process and respond accordingly.
     
 
