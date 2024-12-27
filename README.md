@@ -9,7 +9,6 @@ The goal of this project is to implement a simple client-server communication sy
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [How to Play](#how-to-play)
 ## Subject :
 <ol style="margin-left: 15px;">
   <li style="font-size: 20px; font-weight: 600; color: red;">
@@ -42,7 +41,8 @@ The goal of this project is to implement a simple client-server communication sy
      ```
      java Client.java
      ```
-    After starting both the server and client, you can send a message by typing it into the client terminal. The client will send the message to the server, and the server will process and respond accordingly.
+     
+  After starting both the server and client, you can send a message by typing it into the client terminal. The client will send the message to the server, and the server will process and respond accordingly.
     
 
 
